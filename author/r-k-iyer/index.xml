@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R K Iyer | Krishnakant Saboo</title>
+    <link>https://kvsaboo.github.io/author/r-k-iyer/</link>
+      <atom:link href="https://kvsaboo.github.io/author/r-k-iyer/index.xml" rel="self" type="application/rss+xml" />
+    <description>R K Iyer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kvsaboo.github.io/media/KSaboo_headshot.jpg</url>
+      <title>R K Iyer</title>
+      <link>https://kvsaboo.github.io/author/r-k-iyer/</link>
+    </image>
+    
+    <item>
+      <title>Human verbal memory encoding is hierarchically distributed in a continuous processing stream</title>
+      <link>https://kvsaboo.github.io/publication/kucewicz-eneuro-0214-18-2018/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kvsaboo.github.io/publication/kucewicz-eneuro-0214-18-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EEG-GRAPH: A factor-graph-based model for capturing spatial, temporal, and observational relationships in electroencephalograms</title>
+      <link>https://kvsaboo.github.io/publication/varatharajah-2017-eeg/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://kvsaboo.github.io/publication/varatharajah-2017-eeg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

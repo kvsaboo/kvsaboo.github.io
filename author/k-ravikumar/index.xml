@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K Ravikumar | Krishnakant Saboo</title>
+    <link>https://kvsaboo.github.io/author/k-ravikumar/</link>
+      <atom:link href="https://kvsaboo.github.io/author/k-ravikumar/index.xml" rel="self" type="application/rss+xml" />
+    <description>K Ravikumar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kvsaboo.github.io/media/KSaboo_headshot.jpg</url>
+      <title>K Ravikumar</title>
+      <link>https://kvsaboo.github.io/author/k-ravikumar/</link>
+    </image>
+    
+    <item>
+      <title>An index policy for dynamic pricing in cloud computing under price commitments</title>
+      <link>https://kvsaboo.github.io/publication/borkar-2017-index/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://kvsaboo.github.io/publication/borkar-2017-index/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

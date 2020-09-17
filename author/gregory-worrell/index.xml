@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gregory Worrell | Krishnakant Saboo</title>
+    <link>https://kvsaboo.github.io/author/gregory-worrell/</link>
+      <atom:link href="https://kvsaboo.github.io/author/gregory-worrell/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gregory Worrell</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kvsaboo.github.io/media/KSaboo_headshot.jpg</url>
+      <title>Gregory Worrell</title>
+      <link>https://kvsaboo.github.io/author/gregory-worrell/</link>
+    </image>
+    
+    <item>
+      <title>EEG-GRAPH: A factor-graph-based model for capturing spatial, temporal, and observational relationships in electroencephalograms</title>
+      <link>https://kvsaboo.github.io/publication/varatharajah-2017-eeg/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://kvsaboo.github.io/publication/varatharajah-2017-eeg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

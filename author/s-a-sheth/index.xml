@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S A Sheth | Krishnakant Saboo</title>
+    <link>https://kvsaboo.github.io/author/s-a-sheth/</link>
+      <atom:link href="https://kvsaboo.github.io/author/s-a-sheth/index.xml" rel="self" type="application/rss+xml" />
+    <description>S A Sheth</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kvsaboo.github.io/media/KSaboo_headshot.jpg</url>
+      <title>S A Sheth</title>
+      <link>https://kvsaboo.github.io/author/s-a-sheth/</link>
+    </image>
+    
+    <item>
+      <title>Human verbal memory encoding is hierarchically distributed in a continuous processing stream</title>
+      <link>https://kvsaboo.github.io/publication/kucewicz-eneuro-0214-18-2018/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kvsaboo.github.io/publication/kucewicz-eneuro-0214-18-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised machine-learning classification of electrophysiologically active electrodes during human cognitive task performance</title>
+      <link>https://kvsaboo.github.io/publication/saboo-2019-unsupervised/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kvsaboo.github.io/publication/saboo-2019-unsupervised/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

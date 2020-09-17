@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patents | Krishnakant Saboo</title>
+    <link>https://kvsaboo.github.io/patent/</link>
+      <atom:link href="https://kvsaboo.github.io/patent/index.xml" rel="self" type="application/rss+xml" />
+    <description>Patents</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kvsaboo.github.io/media/KSaboo_headshot.jpg</url>
+      <title>Patents</title>
+      <link>https://kvsaboo.github.io/patent/</link>
+    </image>
+    
+    <item>
+      <title>Gesture recognition using frequency modulated continuous wave (FMCW) radar with low angle resolution</title>
+      <link>https://kvsaboo.github.io/patent/saboo-2017-gesture/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://kvsaboo.github.io/patent/saboo-2017-gesture/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

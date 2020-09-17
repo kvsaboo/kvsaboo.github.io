@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>et al. | Krishnakant Saboo</title>
+    <link>https://kvsaboo.github.io/author/et-al./</link>
+      <atom:link href="https://kvsaboo.github.io/author/et-al./index.xml" rel="self" type="application/rss+xml" />
+    <description>et al.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://kvsaboo.github.io/media/KSaboo_headshot.jpg</url>
+      <title>et al.</title>
+      <link>https://kvsaboo.github.io/author/et-al./</link>
+    </image>
+    
+    <item>
+      <title>Sex is associated with differences in gut microbial composition and function in hepatic encephalopathy</title>
+      <link>https://kvsaboo.github.io/publication/saboo-2020-sex/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://kvsaboo.github.io/publication/saboo-2020-sex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised machine-learning classification of electrophysiologically active electrodes during human cognitive task performance</title>
+      <link>https://kvsaboo.github.io/publication/saboo-2019-unsupervised/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kvsaboo.github.io/publication/saboo-2019-unsupervised/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

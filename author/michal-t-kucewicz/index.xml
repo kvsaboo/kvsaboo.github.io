@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michal T Kucewicz | Krishnakant Saboo</title>
+    <link>https://kvsaboo.github.io/author/michal-t-kucewicz/</link>
+      <atom:link href="https://kvsaboo.github.io/author/michal-t-kucewicz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michal T Kucewicz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kvsaboo.github.io/media/KSaboo_headshot.jpg</url>
+      <title>Michal T Kucewicz</title>
+      <link>https://kvsaboo.github.io/author/michal-t-kucewicz/</link>
+    </image>
+    
+    <item>
+      <title>Human verbal memory encoding is hierarchically distributed in a continuous processing stream</title>
+      <link>https://kvsaboo.github.io/publication/kucewicz-eneuro-0214-18-2018/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kvsaboo.github.io/publication/kucewicz-eneuro-0214-18-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
