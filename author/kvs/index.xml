@@ -1,22 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>KVS* | Krishnakant Saboo</title>
+    <title> KVS | Krishnakant Saboo</title>
     <link>https://kvsaboo.github.io/author/kvs/</link>
       <atom:link href="https://kvsaboo.github.io/author/kvs/index.xml" rel="self" type="application/rss+xml" />
-    <description>KVS*</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <description> KVS</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kvsaboo.github.io/media/KSaboo_headshot.jpg</url>
-      <title>KVS*</title>
+      <title> KVS</title>
       <link>https://kvsaboo.github.io/author/kvs/</link>
     </image>
     
     <item>
-      <title>Composer classification based on temporal coding in adaptive spiking neural networks</title>
-      <link>https://kvsaboo.github.io/publication/7280816/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://kvsaboo.github.io/publication/7280816/</guid>
+      <title>Human verbal memory encoding is hierarchically distributed in a continuous processing stream</title>
+      <link>https://kvsaboo.github.io/publication/kucewicz-eneuro-0214-18-2018/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kvsaboo.github.io/publication/kucewicz-eneuro-0214-18-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An index policy for dynamic pricing in cloud computing under price commitments</title>
+      <link>https://kvsaboo.github.io/publication/borkar-2017-index/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://kvsaboo.github.io/publication/borkar-2017-index/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,20 @@
     <link>https://kvsaboo.github.io/author/v-s-borkar/</link>
       <atom:link href="https://kvsaboo.github.io/author/v-s-borkar/index.xml" rel="self" type="application/rss+xml" />
     <description>V S Borkar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kvsaboo.github.io/media/KSaboo_headshot.jpg</url>
       <title>V S Borkar</title>
       <link>https://kvsaboo.github.io/author/v-s-borkar/</link>
     </image>
+    
+    <item>
+      <title>An index policy for dynamic pricing in cloud computing under price commitments</title>
+      <link>https://kvsaboo.github.io/publication/borkar-2017-index/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://kvsaboo.github.io/publication/borkar-2017-index/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Distributed and asynchronous methods for semi-supervised learning</title>

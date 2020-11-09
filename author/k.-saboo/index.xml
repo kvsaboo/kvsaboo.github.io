@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>K. Saboo | Krishnakant Saboo</title>
+    <title>K. Saboo* | Krishnakant Saboo</title>
     <link>https://kvsaboo.github.io/author/k.-saboo/</link>
       <atom:link href="https://kvsaboo.github.io/author/k.-saboo/index.xml" rel="self" type="application/rss+xml" />
-    <description>K. Saboo</description>
+    <description>K. Saboo*</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kvsaboo.github.io/media/KSaboo_headshot.jpg</url>
-      <title>K. Saboo</title>
+      <title>K. Saboo*</title>
       <link>https://kvsaboo.github.io/author/k.-saboo/</link>
     </image>
     
@@ -17,6 +17,22 @@
       <link>https://kvsaboo.github.io/publication/9098511/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://kvsaboo.github.io/publication/9098511/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sex is associated with differences in gut microbial composition and function in hepatic encephalopathy</title>
+      <link>https://kvsaboo.github.io/publication/saboo-2020-sex/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://kvsaboo.github.io/publication/saboo-2020-sex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Computationally Efficient Model for Predicting Successful Memory Encoding Using Machine-Learning-based EEG Channel Selection</title>
+      <link>https://kvsaboo.github.io/publication/8717057/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kvsaboo.github.io/publication/8717057/</guid>
       <description></description>
     </item>
     
