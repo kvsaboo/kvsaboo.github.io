@@ -5,7 +5,7 @@
     <link>https://kvsaboo.github.io/author/v.-kremen/</link>
       <atom:link href="https://kvsaboo.github.io/author/v.-kremen/index.xml" rel="self" type="application/rss+xml" />
     <description>V. Kremen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 24 Oct 2021 05:36:31 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kvsaboo.github.io/media/KSaboo_headshot.jpg</url>
       <title>V. Kremen</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
+      <title>Independent dynamics of low, intermediate, and high frequency spectral intracranial EEG activities during human memory formation</title>
+      <link>https://kvsaboo.github.io/publication/marks-2021118637/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://kvsaboo.github.io/publication/marks-2021118637/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Leveraging electrophysiologic correlates of word encoding to map seizure onset zone in focal epilepsy: Task-dependent changes in epileptiform activity, spectral features, and functional connectivity</title>
       <link>https://kvsaboo.github.io/publication/https-doi-org-10-1111-epi-17067/</link>
-      <pubDate>Sun, 24 Oct 2021 05:36:31 +0000</pubDate>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://kvsaboo.github.io/publication/https-doi-org-10-1111-epi-17067/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Independent dynamics of low, intermediate, and high frequency spectral intracranial EEG activities during human memory formation</title>
-      <link>https://kvsaboo.github.io/publication/marks-2021118637/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://kvsaboo.github.io/publication/marks-2021118637/</guid>
+      <title>Unsupervised machine-learning classification of electrophysiologically active electrodes during human cognitive task performance</title>
+      <link>https://kvsaboo.github.io/publication/saboo-2019-unsupervised/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://kvsaboo.github.io/publication/saboo-2019-unsupervised/</guid>
       <description></description>
     </item>
     
@@ -33,14 +41,6 @@
       <link>https://kvsaboo.github.io/publication/kucewicz-eneuro-0214-18-2018/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://kvsaboo.github.io/publication/kucewicz-eneuro-0214-18-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unsupervised machine-learning classification of electrophysiologically active electrodes during human cognitive task performance</title>
-      <link>https://kvsaboo.github.io/publication/saboo-2019-unsupervised/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://kvsaboo.github.io/publication/saboo-2019-unsupervised/</guid>
       <description></description>
     </item>
     

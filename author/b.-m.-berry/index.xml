@@ -5,7 +5,7 @@
     <link>https://kvsaboo.github.io/author/b.-m.-berry/</link>
       <atom:link href="https://kvsaboo.github.io/author/b.-m.-berry/index.xml" rel="self" type="application/rss+xml" />
     <description>B. M. Berry</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kvsaboo.github.io/media/KSaboo_headshot.jpg</url>
       <title>B. M. Berry</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Unsupervised machine-learning classification of electrophysiologically active electrodes during human cognitive task performance</title>
+      <link>https://kvsaboo.github.io/publication/saboo-2019-unsupervised/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://kvsaboo.github.io/publication/saboo-2019-unsupervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Computationally Efficient Model for Predicting Successful Memory Encoding Using Machine-Learning-based EEG Channel Selection</title>
       <link>https://kvsaboo.github.io/publication/8717057/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://kvsaboo.github.io/publication/8717057/</guid>
       <description></description>
     </item>
@@ -29,17 +37,9 @@
     </item>
     
     <item>
-      <title>Unsupervised machine-learning classification of electrophysiologically active electrodes during human cognitive task performance</title>
-      <link>https://kvsaboo.github.io/publication/saboo-2019-unsupervised/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://kvsaboo.github.io/publication/saboo-2019-unsupervised/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>EEG-GRAPH: A factor-graph-based model for capturing spatial, temporal, and observational relationships in electroencephalograms</title>
       <link>https://kvsaboo.github.io/publication/varatharajah-2017-eeg/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       <guid>https://kvsaboo.github.io/publication/varatharajah-2017-eeg/</guid>
       <description></description>
     </item>
