@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Beta&#34; | Krishnakant Saboo</title>
+    <link>https://kvsaboo.github.io/tag/beta/</link>
+      <atom:link href="https://kvsaboo.github.io/tag/beta/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Beta&#34;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kvsaboo.github.io/media/KSaboo_headshot.jpg</url>
+      <title>&#34;Beta&#34;</title>
+      <link>https://kvsaboo.github.io/tag/beta/</link>
+    </image>
+    
+    <item>
+      <title>Independent dynamics of low, intermediate, and high frequency spectral intracranial EEG activities during human memory formation</title>
+      <link>https://kvsaboo.github.io/publication/marks-2021118637/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kvsaboo.github.io/publication/marks-2021118637/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

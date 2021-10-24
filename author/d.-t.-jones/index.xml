@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. T. Jones | Krishnakant Saboo</title>
+    <link>https://kvsaboo.github.io/author/d.-t.-jones/</link>
+      <atom:link href="https://kvsaboo.github.io/author/d.-t.-jones/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. T. Jones</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kvsaboo.github.io/media/KSaboo_headshot.jpg</url>
+      <title>D. T. Jones</title>
+      <link>https://kvsaboo.github.io/author/d.-t.-jones/</link>
+    </image>
+    
+    <item>
+      <title>Reinforcement Learning based Disease Progression Model for Alzheimer&#39;s Disease</title>
+      <link>https://kvsaboo.github.io/publication/saboo-2021-reinforcement/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kvsaboo.github.io/publication/saboo-2021-reinforcement/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

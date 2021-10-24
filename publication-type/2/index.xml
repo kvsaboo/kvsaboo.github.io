@@ -5,12 +5,36 @@
     <link>https://kvsaboo.github.io/publication-type/2/</link>
       <atom:link href="https://kvsaboo.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 24 Oct 2021 05:36:31 +0000</lastBuildDate>
     <image>
       <url>https://kvsaboo.github.io/media/KSaboo_headshot.jpg</url>
       <title>2</title>
       <link>https://kvsaboo.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Leveraging electrophysiologic correlates of word encoding to map seizure onset zone in focal epilepsy: Task-dependent changes in epileptiform activity, spectral features, and functional connectivity</title>
+      <link>https://kvsaboo.github.io/publication/https-doi-org-10-1111-epi-17067/</link>
+      <pubDate>Sun, 24 Oct 2021 05:36:31 +0000</pubDate>
+      <guid>https://kvsaboo.github.io/publication/https-doi-org-10-1111-epi-17067/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Independent dynamics of low, intermediate, and high frequency spectral intracranial EEG activities during human memory formation</title>
+      <link>https://kvsaboo.github.io/publication/marks-2021118637/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kvsaboo.github.io/publication/marks-2021118637/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning based Disease Progression Model for Alzheimer&#39;s Disease</title>
+      <link>https://kvsaboo.github.io/publication/saboo-2021-reinforcement/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kvsaboo.github.io/publication/saboo-2021-reinforcement/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Low Predictability of Readmissions and Death Using Machine Learning in Cirrhosis</title>

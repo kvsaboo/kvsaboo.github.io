@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K Saboo | Krishnakant Saboo</title>
+    <link>https://kvsaboo.github.io/author/k-saboo/</link>
+      <atom:link href="https://kvsaboo.github.io/author/k-saboo/index.xml" rel="self" type="application/rss+xml" />
+    <description>K Saboo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kvsaboo.github.io/media/KSaboo_headshot.jpg</url>
+      <title>K Saboo</title>
+      <link>https://kvsaboo.github.io/author/k-saboo/</link>
+    </image>
+    
+    <item>
+      <title>Low Predictability of Readmissions and Death Using Machine Learning in Cirrhosis</title>
+      <link>https://kvsaboo.github.io/publication/hu-2020-low/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://kvsaboo.github.io/publication/hu-2020-low/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised machine-learning classification of electrophysiologically active electrodes during human cognitive task performance</title>
+      <link>https://kvsaboo.github.io/publication/saboo-2019-unsupervised/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kvsaboo.github.io/publication/saboo-2019-unsupervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EEG-GRAPH: A factor-graph-based model for capturing spatial, temporal, and observational relationships in electroencephalograms</title>
+      <link>https://kvsaboo.github.io/publication/varatharajah-2017-eeg/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://kvsaboo.github.io/publication/varatharajah-2017-eeg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed and asynchronous methods for semi-supervised learning</title>
+      <link>https://kvsaboo.github.io/publication/avrachenkov-2016-distributed/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://kvsaboo.github.io/publication/avrachenkov-2016-distributed/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

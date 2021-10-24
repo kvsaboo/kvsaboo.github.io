@@ -5,7 +5,7 @@
     <link>https://kvsaboo.github.io/author/r.-k.-iyer/</link>
       <atom:link href="https://kvsaboo.github.io/author/r.-k.-iyer/index.xml" rel="self" type="application/rss+xml" />
     <description>R. K. Iyer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 24 Oct 2021 05:36:31 +0000</lastBuildDate>
     <image>
       <url>https://kvsaboo.github.io/media/KSaboo_headshot.jpg</url>
       <title>R. K. Iyer</title>
@@ -13,10 +13,66 @@
     </image>
     
     <item>
+      <title>Leveraging electrophysiologic correlates of word encoding to map seizure onset zone in focal epilepsy: Task-dependent changes in epileptiform activity, spectral features, and functional connectivity</title>
+      <link>https://kvsaboo.github.io/publication/https-doi-org-10-1111-epi-17067/</link>
+      <pubDate>Sun, 24 Oct 2021 05:36:31 +0000</pubDate>
+      <guid>https://kvsaboo.github.io/publication/https-doi-org-10-1111-epi-17067/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning based Disease Progression Model for Alzheimer&#39;s Disease</title>
+      <link>https://kvsaboo.github.io/publication/saboo-2021-reinforcement/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kvsaboo.github.io/publication/saboo-2021-reinforcement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low Predictability of Readmissions and Death Using Machine Learning in Cirrhosis</title>
+      <link>https://kvsaboo.github.io/publication/hu-2020-low/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://kvsaboo.github.io/publication/hu-2020-low/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sex is associated with differences in gut microbial composition and function in hepatic encephalopathy</title>
+      <link>https://kvsaboo.github.io/publication/saboo-2020-sex/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://kvsaboo.github.io/publication/saboo-2020-sex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Computationally Efficient Model for Predicting Successful Memory Encoding Using Machine-Learning-based EEG Channel Selection</title>
       <link>https://kvsaboo.github.io/publication/8717057/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://kvsaboo.github.io/publication/8717057/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human verbal memory encoding is hierarchically distributed in a continuous processing stream</title>
+      <link>https://kvsaboo.github.io/publication/kucewicz-eneuro-0214-18-2018/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kvsaboo.github.io/publication/kucewicz-eneuro-0214-18-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised machine-learning classification of electrophysiologically active electrodes during human cognitive task performance</title>
+      <link>https://kvsaboo.github.io/publication/saboo-2019-unsupervised/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kvsaboo.github.io/publication/saboo-2019-unsupervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EEG-GRAPH: A factor-graph-based model for capturing spatial, temporal, and observational relationships in electroencephalograms</title>
+      <link>https://kvsaboo.github.io/publication/varatharajah-2017-eeg/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://kvsaboo.github.io/publication/varatharajah-2017-eeg/</guid>
       <description></description>
     </item>
     
