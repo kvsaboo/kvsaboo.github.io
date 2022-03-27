@@ -29,6 +29,30 @@
     </item>
     
     <item>
+      <title>Machine Learning Summer Course 2020</title>
+      <link>https://kvsaboo.github.io/support/mlsc2020/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://kvsaboo.github.io/support/mlsc2020/</guid>
+      <description>&lt;p&gt;This course was designed to provide an intuition for the fundamentals of basic machine learning models to students who have a high school level background in maths. It has over 12 hrs of lecture material along with an assignment for each lecture. Please find the lectures below. Feel free to reach out to me with any questions or suggestions or if you want access to the assignments!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://kvsaboo.github.io/files/L01_MathReview.pdf&#34;&gt;Lecture 1: Maths review&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://kvsaboo.github.io/files/L02_kNN_BayesRisk.pdf&#34;&gt;Lecture 2: k-Nearest Neighbor, Bayes Risk, Performance Metrics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://kvsaboo.github.io/files/L03_LinearLogisticRegression.pdf&#34;&gt;Lecture 3: Linear and Logistic Regression&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://kvsaboo.github.io/files/L04_SVM_RandomForest.pdf&#34;&gt;Lecture 4: Support Vector Machines, Random Forest&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://kvsaboo.github.io/files/L05_kMeans_GMM.pdf&#34;&gt;Lecture 5: Clustering (k-Means, Gaussian Mixture Model)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://kvsaboo.github.io/files/L06_PCA_etc.pdf&#34;&gt;Lecture 6: Principal Component Analysis&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Thanks to Tejal, Irena, Thanh, Abhi, Michelle for their enthusiastic participation in the course. Special thanks to Prakruthi for her feedback in developing the material!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Leveraging electrophysiologic correlates of word encoding to map seizure onset zone in focal epilepsy: Task-dependent changes in epileptiform activity, spectral features, and functional connectivity</title>
       <link>https://kvsaboo.github.io/publication/https-doi-org-10-1111-epi-17067/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
