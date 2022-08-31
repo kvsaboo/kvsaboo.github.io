@@ -5,28 +5,12 @@
     <link>https://kvsaboo.github.io/</link>
       <atom:link href="https://kvsaboo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Krishnakant Saboo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://kvsaboo.github.io/media/KSaboo_headshot.jpg</url>
+      <url>https://kvsaboo.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Krishnakant Saboo</title>
       <link>https://kvsaboo.github.io/</link>
     </image>
-    
-    <item>
-      <title>Reinforcement Learning based Disease Progression Model for Alzheimer&#39;s Disease</title>
-      <link>https://kvsaboo.github.io/publication/saboo-2021-reinforcement/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://kvsaboo.github.io/publication/saboo-2021-reinforcement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Independent dynamics of low, intermediate, and high frequency spectral intracranial EEG activities during human memory formation</title>
-      <link>https://kvsaboo.github.io/publication/marks-2021118637/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://kvsaboo.github.io/publication/marks-2021118637/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Machine Learning Summer Course 2020</title>
@@ -35,124 +19,22 @@
       <guid>https://kvsaboo.github.io/support/mlsc2020/</guid>
       <description>&lt;p&gt;This course was designed to provide an intuition for the fundamentals of basic machine learning models to students who have a high school level background in maths. It has over 12 hrs of lecture material along with an assignment for each lecture. Please find the lectures below. Feel free to reach out to me with any questions or suggestions or if you want access to the assignments!&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://kvsaboo.github.io/files/L01_MathReview.pdf&#34;&gt;Lecture 1: Maths review&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://kvsaboo.github.io/files/L02_kNN_BayesRisk.pdf&#34;&gt;Lecture 2: k-Nearest Neighbor, Bayes Risk, Performance Metrics&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://kvsaboo.github.io/files/L03_LinearLogisticRegression.pdf&#34;&gt;Lecture 3: Linear and Logistic Regression&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://kvsaboo.github.io/files/L04_SVM_RandomForest.pdf&#34;&gt;Lecture 4: Support Vector Machines, Random Forest&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://kvsaboo.github.io/files/L05_kMeans_GMM.pdf&#34;&gt;Lecture 5: Clustering (k-Means, Gaussian Mixture Model)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://kvsaboo.github.io/files/L06_PCA_etc.pdf&#34;&gt;Lecture 6: Principal Component Analysis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kvsaboo.github.io/files/L01_MathReview.pdf&#34;&gt;Lecture 1: Maths review&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kvsaboo.github.io/files/L02_kNN_BayesRisk.pdf&#34;&gt;Lecture 2: k-Nearest Neighbor, Bayes Risk, Performance Metrics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kvsaboo.github.io/files/L03_LinearLogisticRegression.pdf&#34;&gt;Lecture 3: Linear and Logistic Regression&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kvsaboo.github.io/files/L04_SVM_RandomForest.pdf&#34;&gt;Lecture 4: Support Vector Machines, Random Forest&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kvsaboo.github.io/files/L05_kMeans_GMM.pdf&#34;&gt;Lecture 5: Clustering (k-Means, Gaussian Mixture Model)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kvsaboo.github.io/files/L06_PCA_etc.pdf&#34;&gt;Lecture 6: Principal Component Analysis&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Thanks to Tejal, Irena, Thanh, Abhi, Michelle for their enthusiastic participation in the course. Special thanks to Prakruthi for her feedback in developing the material!&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Leveraging electrophysiologic correlates of word encoding to map seizure onset zone in focal epilepsy: Task-dependent changes in epileptiform activity, spectral features, and functional connectivity</title>
-      <link>https://kvsaboo.github.io/publication/https-doi-org-10-1111-epi-17067/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://kvsaboo.github.io/publication/https-doi-org-10-1111-epi-17067/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Low Predictability of Readmissions and Death Using Machine Learning in Cirrhosis</title>
-      <link>https://kvsaboo.github.io/publication/hu-2020-low/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://kvsaboo.github.io/publication/hu-2020-low/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sex is associated with differences in gut microbial composition and function in hepatic encephalopathy</title>
-      <link>https://kvsaboo.github.io/publication/saboo-2020-sex/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://kvsaboo.github.io/publication/saboo-2020-sex/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Predicting Longitudinal Cognitive Scores Using Baseline Imaging and Clinical Variables</title>
-      <link>https://kvsaboo.github.io/publication/9098511/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://kvsaboo.github.io/publication/9098511/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unsupervised machine-learning classification of electrophysiologically active electrodes during human cognitive task performance</title>
-      <link>https://kvsaboo.github.io/publication/saboo-2019-unsupervised/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://kvsaboo.github.io/publication/saboo-2019-unsupervised/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Joint Model for Predicting Structural and Functional Brain Health in Elderly Individuals</title>
-      <link>https://kvsaboo.github.io/publication/8983291/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://kvsaboo.github.io/publication/8983291/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Computationally Efficient Model for Predicting Successful Memory Encoding Using Machine-Learning-based EEG Channel Selection</title>
-      <link>https://kvsaboo.github.io/publication/8717057/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://kvsaboo.github.io/publication/8717057/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Human verbal memory encoding is hierarchically distributed in a continuous processing stream</title>
-      <link>https://kvsaboo.github.io/publication/kucewicz-eneuro-0214-18-2018/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://kvsaboo.github.io/publication/kucewicz-eneuro-0214-18-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EEG-GRAPH: A factor-graph-based model for capturing spatial, temporal, and observational relationships in electroencephalograms</title>
-      <link>https://kvsaboo.github.io/publication/varatharajah-2017-eeg/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://kvsaboo.github.io/publication/varatharajah-2017-eeg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An index policy for dynamic pricing in cloud computing under price commitments</title>
-      <link>https://kvsaboo.github.io/publication/borkar-2017-index/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://kvsaboo.github.io/publication/borkar-2017-index/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gesture recognition using frequency modulated continuous wave (FMCW) radar with low angle resolution</title>
-      <link>https://kvsaboo.github.io/patent/saboo-2017-gesture/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://kvsaboo.github.io/patent/saboo-2017-gesture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Distributed and asynchronous methods for semi-supervised learning</title>
-      <link>https://kvsaboo.github.io/publication/avrachenkov-2016-distributed/</link>
-      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://kvsaboo.github.io/publication/avrachenkov-2016-distributed/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Composer classification based on temporal coding in adaptive spiking neural networks</title>
-      <link>https://kvsaboo.github.io/publication/7280816/</link>
-      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://kvsaboo.github.io/publication/7280816/</guid>
+      <title></title>
+      <link>https://kvsaboo.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kvsaboo.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
