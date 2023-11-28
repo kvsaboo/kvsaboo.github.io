@@ -20,7 +20,7 @@
       <description>&lt;p&gt;Alzheimer’s disease progresses over decades, but symptoms manifest only in the advanced stages, which makes early diagnosis and thereby, timely intervention difficult. The complexity and heterogeneity of the disease; sparse longitudinal data; and unknown relationships among factors such as disease pathology, brain structures, brain activity, and cognition present significant challenges in predicting disease progression.&lt;/p&gt;
 &lt;p&gt;We have developed models that provide a holistic view of disease progression by combining ML with multimodal data and clinical domain knowledge in the form of science-based differential equations (DEs). Basing the model on DEs provides biological interpretability to the results and using ML improves the model&amp;rsquo;s data fitting capacity.&lt;/p&gt;
 &lt;p&gt;The models predict personalized 5- to 10-year future cognitive decline in older adults, thus providing a tool to identify at-risk individuals. Our methods have also yielded novel insights into the physiological basis of compensatory processes that mitigate the effect of disease on cognition. Further investigation of these can guide the development of interventions.&lt;/p&gt;
-&lt;p&gt;Relevant publications&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Selected relevant publications&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;K. V. Saboo&lt;/strong&gt;, C. Hu, Y. Varatharajah, S. A. Przybelski, R. I. Reid, C. G. Schwarz, J. Graff-Radford, D. S. Knopman, M. M. Machulda, M. M. Mielke, R. C. Petersen, P. M. Arnold, G. A. Worrell, D. T. Jones, C. R. Jack Jr., R. K. Iyer*, P. Vemuri* (2022). &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1053811922001495&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep learning identifies brain structures that predict cognition and explain heterogeneity in cognitive aging&lt;/a&gt;. &lt;em&gt;&lt;strong&gt;NeuroImage&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
 &lt;/ul&gt;
@@ -31,10 +31,6 @@
 &lt;p&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;K. V. Saboo&lt;/strong&gt;, C. Hu, Y. Varatharajah, P. Vemuri, R. K. Iyer (2020). &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9098511&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Predicting longitudinal cognitive scores using baseline imaging and clinical variables&lt;/a&gt;. &lt;em&gt;IEEE International Symposium on Biomedical Imaging&lt;/em&gt; &lt;em&gt;(&lt;strong&gt;ISBI&lt;/strong&gt;)&lt;/em&gt;. (Oral presentation).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Y. Varatharajah, &lt;strong&gt;K. V. Saboo&lt;/strong&gt;, R. K. Iyer, S. Przybelski, C. Schwarz, R. Petersen, C. R. Jack Jr., P. Vemuri (2019). &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8983291&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A joint model for predicting structural and functional brain health in elderly individuals&lt;/a&gt;, &lt;em&gt;IEEE International Conference on Bioinformatics and Biomedicine&lt;/em&gt; &lt;em&gt;(&lt;strong&gt;BIBM&lt;/strong&gt;)&lt;/em&gt;, &lt;em&gt;BHI Workshop&lt;/em&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -48,7 +44,7 @@
 &lt;p&gt;We have discovered iEEG biomarkers and developed ML methods to addresses two important clinicals challenges: (i) SOZ localization, and (ii) predicting seizure clustering. We observed that relative entropy, a bivariate iEEG feature which represents the similarity in brain activity between pairs of iEEG electrodes, is a suitable biomarker for the above tasks. Relative entropy also enables abstracting streams of iEEG data into time-evolving graphs - rendering the data suitable for application of graph theoretical techniques.&lt;/p&gt;
 &lt;p&gt;Relevant publications&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;K. V. Saboo&lt;/strong&gt;, Y. Cao, V. Kremen, V. Sladky, N. M. Gregg, P. M. Arnold, P. J. Karoly, D. R. Freestone, M. J. Cook, G. A. Worrell, R. K. Iyer (2022). Individualized seizure cluster prediction using machine learning and ambulatory intracranial EEG. &lt;em&gt;International Conference on Bioinformatics and Biomedicine&lt;/em&gt; &lt;em&gt;(&lt;strong&gt;BIBM&lt;/strong&gt;)&lt;/em&gt; (accepted).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;K. V. Saboo&lt;/strong&gt;, Y. Cao, V. Kremen, V. Sladky, N. M. Gregg, P. M. Arnold, P. J. Karoly, D. R. Freestone, M. J. Cook, G. A. Worrell, R. K. Iyer (2023). &lt;a href=&#34;https://ieeexplore.ieee.org/document/10122733&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Individualized seizure cluster prediction using machine learning and chronic ambulatory intracranial EEG&lt;/a&gt;. &lt;em&gt;&lt;strong&gt;IEEE Transactions on NanoBioscience&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -120,10 +116,6 @@
 &lt;p&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;M. T. Kucewicz, &lt;strong&gt;K. V. Saboo&lt;/strong&gt;, B. M. Berry, V. Kremen, L. R. Miller, F. Khadjevand, C. S. Inman, P. Wanda, M. R. Sperling, R. Gorniak, K. A. Davis, B. C. Jobst, B. Lega, S. A. Sheth, D. S. Rizzuto, R. K. Iyer, M. J. Kahana, G. A. Worrell (2019). &lt;a href=&#34;https://www.eneuro.org/content/6/1/ENEURO.0214-18.2018&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Human verbal memory encoding is hierarchically distributed in a continuous processing stream&lt;/a&gt;. &lt;em&gt;&lt;strong&gt;eNeuro&lt;/strong&gt;&lt;/em&gt; &lt;em&gt;6.1&lt;/em&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;K. V. Saboo&lt;/strong&gt;, Y. Varatharajah, B. M. Berry, M. R. Sperling, R. Gorniak, K. A. Davis, B. C. Jobst, R. E. Gross, B. Lega, S. A. Sheth, M. J. Kahana, M. T. Kucewicz, G. A. Worrell, R. K. Iyer (2019). &lt;a href=&#34;https://ieeexplore.ieee.org/document/8717057&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A computationally efficient model for predicting successful memory encoding using machine learning-based EEG channel selection&lt;/a&gt;. &lt;em&gt;International IEEE EMBS Conference on Neural Engineering&lt;/em&gt; &lt;em&gt;(&lt;strong&gt;NER&lt;/strong&gt;)&lt;/em&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
